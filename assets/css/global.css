@@ -91,3 +91,37 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+/* Language toggle button in navbar */
+.lang-toggle-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+
+.lang-toggle-btn {
+    padding: 0.25rem 0.4rem !important;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #999 !important;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    cursor: pointer;
+    user-select: none;
+}
+
+.lang-toggle-btn:hover {
+    color: #555 !important;
+    text-decoration: none;
+}
+
+.lang-toggle-btn.lang-active {
+    color: #1f77b4 !important;
+}
+
+.lang-toggle-divider {
+    color: #ccc;
+    font-size: 0.78rem;
+    padding: 0 0.15rem;
+    user-select: none;
+}

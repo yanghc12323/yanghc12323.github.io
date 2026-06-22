@@ -4,7 +4,7 @@
         <div class="card border-0 shadow-sm bg-white">
             <div class="card-body p-4">
                 <div class="row px-3 pt-3">
-                    <div class="col h3">
+                    <div class="col h3" data-i18n="home.about_me">
                         About Me
                     </div>
                 </div>
@@ -14,7 +14,7 @@
                             {{ site.data.profile.short_bio }}
                         </div>
                         {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
+                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> <span data-i18n="widgets.curriculum_vitae">Curriculum Vitae</span></a> <br/>
                         {% endif %}
                     </div>
         
