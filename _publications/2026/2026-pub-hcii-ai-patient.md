@@ -3,7 +3,7 @@ title:          "Investigating the Dynamic Emotional Support Effects of AI Medic
 date:           2026-03-15 00:01:00 +0800
 selected:       true
 pub:            "HCII 2026 (Human-Computer Interaction International)"
-pub_date:       "2026 (Submitted)"
+pub_date:       "2026"
 abstract: >-
   This study investigates how AI-driven medical assistants provide emotional support to patients across pre-, mid-, and post-consultation stages, and examines the moderating role of gender.
   A 2×3×2 mixed factorial experiment (N=32) was conducted using a custom GPT-4o-powered AI doctor prototype (Doc.Tsing), with extended PAD emotion scales and multidimensional trust scales.
