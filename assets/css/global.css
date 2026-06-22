@@ -125,3 +125,42 @@ div.lazy {
     padding: 0 0.15rem;
     user-select: none;
 }
+
+/* --- Bilingual display rules --- */
+/* Default: when lang is not set, show EN text */
+.lang-zh {
+    display: none;
+}
+.lang-en {
+    display: inline;
+}
+
+/* When html lang=zh, show ZH text, hide EN text */
+html[lang="zh"] .lang-zh,
+html[lang="zh"] .lang-zh-inline,
+html[lang="zh"] .lang-zh-block {
+    display: inline;
+}
+html[lang="zh"] .lang-zh-block {
+    display: block;
+}
+html[lang="zh"] .lang-en,
+html[lang="zh"] .lang-en-inline,
+html[lang="zh"] .lang-en-block {
+    display: none;
+}
+
+/* When html lang=en, show EN text, hide ZH text */
+html[lang="en"] .lang-en,
+html[lang="en"] .lang-en-inline,
+html[lang="en"] .lang-en-block {
+    display: inline;
+}
+html[lang="en"] .lang-en-block {
+    display: block;
+}
+html[lang="en"] .lang-zh,
+html[lang="en"] .lang-zh-inline,
+html[lang="en"] .lang-zh-block {
+    display: none;
+}

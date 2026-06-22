@@ -8,7 +8,7 @@
         <div class="col-12">
             <h5 class="mb-2">
                 <a href="{{ item.url | relative_url }}" class="text-dark text-decoration-none">
-                    {{ item.title }}
+                    {% if item.title_zh %}<span class="lang-en">{{ item.title }}</span><span class="lang-zh">{{ item.title_zh }}</span>{% else %}{{ item.title }}{% endif %}
                 </a>
             </h5>
             <div class="text-muted small mb-2">

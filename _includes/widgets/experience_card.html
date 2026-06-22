@@ -12,10 +12,10 @@
                                 <li class="media mb-1">
                                     <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
                                     <div class="media-body">
-                                        <div>{{ item.name }}</div>
-                                        <div class="small">{{ item.dept }}</div>
+                                        <div><span class="lang-en">{{ item.name }}</span><span class="lang-zh">{{ item.name_zh }}</span></div>
+                                        <div class="small"><span class="lang-en">{{ item.dept }}</span><span class="lang-zh">{{ item.dept_zh }}</span></div>
                                         <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
+                                            <div><span class="lang-en">{{ item.position }}</span><span class="lang-zh">{{ item.position_zh }}</span></div>
                                             <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>
@@ -35,10 +35,10 @@
                                 <li class="media mb-1">
                                     <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
                                     <div class="media-body">
-                                        <div>{{ item.name }}</div>
-                                        <div class="small">{{ item.dept }}</div>
+                                        <div><span class="lang-en">{{ item.name }}</span><span class="lang-zh">{{ item.name_zh }}</span></div>
+                                        <div class="small"><span class="lang-en">{{ item.dept }}</span><span class="lang-zh">{{ item.dept_zh }}</span></div>
                                         <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
+                                            <div><span class="lang-en">{{ item.position }}</span><span class="lang-zh">{{ item.position_zh }}</span></div>
                                             <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>
@@ -57,7 +57,7 @@
                                 {% for item in site.data.profile.awards %}
                                 <li>
                                     <div class="d-flex">
-                                        <div>{{ item.name }}</div>
+                                        <div><span class="lang-en">{{ item.name }}</span><span class="lang-zh">{{ item.name_zh }}</span></div>
                                         <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                     </div>
                                 </li>

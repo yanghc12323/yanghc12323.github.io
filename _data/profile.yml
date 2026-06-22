@@ -4,7 +4,9 @@ navbar_name: "Haochen Yang"
 
 positions:
 - name: B.S. in Mathematical Foundations & Industrial Engineering
+  name_zh: 数学基础与工业工程本科生
 - name: Weiyang College, Tsinghua University
+  name_zh: 清华大学 未央书院
 
 email: "yanghc23@mails.tsinghua.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -28,50 +30,85 @@ short_bio: >-
     I have led and contributed to multiple research projects, including AI-patient communication emotional dynamics (HCII 2026, First Author), crossmodal consistency fNIRS studies (JNE, Second Author).
     Extensive student leadership experience (Deputy Secretary, Dushi College Youth League Committee; managing 450+ members) has further honed my abilities in project coordination and cross-team collaboration.
   </p>
+short_bio_zh: >-
+  <p>
+    目前于清华大学未央书院攻读数学基础与工业工程学士学位（GPA: 3.7/4.0，前30%）。
+    研究方向聚焦于<strong>人机交互、智能系统用户体验、认知工效学以及AI驱动的交互系统</strong>。
+  </p>
+  <p>
+    本科训练使我掌握了涵盖行为实验设计、生理信号处理（fNIRS）和统计建模的完整研究技能链。
+    熟练使用 C++、Python、Objective-C、Swift、SQL、MATLAB（Homer3）、SPSS、R 和 SEM（Amos），并具有 Flask 网页开发和 iOS 原生开发（Core Haptics）的实践经验。
+  </p>
+  <p>
+    主导和参与多项科研项目，包括 AI-医患沟通情绪动力学研究（HCII 2026，第一作者）、跨模态一致性 fNIRS 研究（JNE，第二作者）。
+    丰富的学生工作经历（担任笃实书院团委副书记，管理450+成员）进一步锻炼了项目统筹与跨团队协作能力。
+  </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: ~
 
 education:
 - name: Tsinghua University
+  name_zh: 清华大学
   logo: /assets/images/badges/THU.png
   position: >-
     Weiyang College <br/>
     B.S. in Mathematical Foundations & Industrial Engineering
+  position_zh: >-
+    未央书院 <br/>
+    数学基础与工业工程 学士
   date: Sep. 2023 - Jul. 2027
 
 experience:
 - name: Shokz (Shenzhen Shaoyin Technology Co., Ltd.)
+  name_zh: 韶音科技（深圳市韶音科技有限公司）
   logo: /assets/images/badges/Shokz.jpg
   position: Human Factors Engineering Intern
+  position_zh: 人因工程实习生
   dept: Product Innovation Department
+  dept_zh: 产品创新部
   date: Summer 2026
 - name: Tsinghua University
+  name_zh: 清华大学
   logo: /assets/images/badges/THU.png
   position: Deputy Secretary
+  position_zh: 副书记
   dept: Youth League Committee, Dushi College
+  dept_zh: 笃实书院团委
   date: Dec. 2025 - Present
 - name: Tsinghua University
+  name_zh: 清华大学
   logo: /assets/images/badges/THU.png
   position: Head, Organization Division
+  position_zh: 组织组组长
   dept: Youth League Committee, Dushi College
+  dept_zh: 笃实书院团委
   date: Feb. 2025 - Dec. 2025
 - name: Tsinghua University
+  name_zh: 清华大学
   logo: /assets/images/badges/THU.png
   position: Head, Practice Division
+  position_zh: 实践组组长
   dept: Youth League Committee, Weiyang College
+  dept_zh: 未央书院团委
   date: Feb. 2025 - Dec. 2025
 
 awards:
 - name: Tsinghua University Outstanding Communist Youth League Member
+  name_zh: 清华大学优秀共青团员
   date: 2025-2026
 - name: Tsinghua University Comprehensive Excellence Scholarship
+  name_zh: 清华大学综合优秀奖学金
   date: 2024-2025
 - name: Tsinghua University Academic Excellence Scholarship
+  name_zh: 清华大学学业优秀奖学金
   date: 2024-2025
 - name: Tsinghua University Outstanding Student Leader
+  name_zh: 清华大学优秀学生干部
   date: 2024-2025
 - name: Tsinghua University Social Work Excellence Scholarship
+  name_zh: 清华大学社会工作优秀奖学金
   date: 2023-2024
 - name: Tsinghua University Volunteer Service Excellence Scholarship
+  name_zh: 清华大学志愿公益优秀奖学金
   date: 2023-2024

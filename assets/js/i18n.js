@@ -80,8 +80,8 @@
     for (var i = 0; i < elements.length; i++) {
       translateElement(elements[i]);
     }
-    // Update HTML lang attribute
-    document.documentElement.lang = currentLang;
+    // Update HTML lang attribute (use setAttribute for CSS selector html[lang="zh"])
+    document.documentElement.setAttribute('lang', currentLang);
   }
 
   function switchLang(lang) {
@@ -112,7 +112,9 @@
   }
 
   // Initialize on DOM ready
-  function init() {
+function init() {
+    // Set initial lang attribute for CSS
+    document.documentElement.setAttribute('lang', currentLang);
     // Show current language on buttons
     translatePage();
     var btnZh = document.getElementById('lang-toggle-zh');
