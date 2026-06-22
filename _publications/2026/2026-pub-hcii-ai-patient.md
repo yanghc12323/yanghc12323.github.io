@@ -11,8 +11,11 @@ abstract: >-
   Based on empirical findings, we propose "context-aware" and "personalized communication" design strategies for adaptive medical AI systems.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-  - Haochen Yang*
-  - Other Authors (Tsinghua University)
+  - Haochen Yang
+  - Mingxiao Li
+  - Zhuoran Gao
+  - Ruohan Yang
+  - Pei-Luen Patrick Rau
 links:
   Paper: https://2026.hci.international
 ---
