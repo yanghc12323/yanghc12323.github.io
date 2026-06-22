@@ -9,7 +9,7 @@ abstract: >-
   A 2×3×2 mixed factorial experiment (N=32) was conducted using a custom GPT-4o-powered AI doctor prototype (Doc.Tsing), with extended PAD emotion scales and multidimensional trust scales.
   Results revealed a significant three-way interaction effect of gender × consultation stage on perceived control, with males experiencing a notable drop in control during mid-consultation.
   Based on empirical findings, we propose "context-aware" and "personalized communication" design strategies for adaptive medical AI systems.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/HCII2026.png
 authors:
   - Haochen Yang
   - Mingxiao Li
