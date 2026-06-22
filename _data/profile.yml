@@ -1,61 +1,75 @@
-primary_name: "Your Name"
+primary_name: "Haochen Yang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Haochen Yang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: B.S. in Mathematical Foundations & Industrial Engineering
+- name: Weiyang College, Tsinghua University
 
-
-email: "your@email.com"
+email: "yanghc23@mails.tsinghua.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# gscholar: xFmQpf4AAAAJ  # Replace with your Google Scholar ID
+github: yanghc12323
+# twitter: your_twitter_id
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I'm currently pursuing a B.S. in Mathematical Foundations & Industrial Engineering at Weiyang College, Tsinghua University (GPA: 3.7/4.0, top 30%).
+    My research interests focus on <strong>Human-Computer Interaction, Intelligent System User Experience, Cognitive Ergonomics, and AI-Driven Interactive Systems</strong>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My undergraduate training has equipped me with a complete research skill chain spanning behavioral experiment design, physiological signal processing (fNIRS), and statistical modeling.
+    I'm proficient in C++, Python, Objective-C, Swift, SQL, MATLAB (Homer3), SPSS, R, and SEM (Amos), with hands-on experience in Flask web development and iOS native development (Core Haptics).
+  </p>
+  <p>
+    I have led and contributed to multiple research projects, including AI-patient communication emotional dynamics (HCII 2026, First Author), crossmodal consistency fNIRS studies (JNE, Second Author), and LLM self-awareness measurement.
+    Extensive student leadership experience (Deputy Secretary, Dushi College Youth League Committee; managing 450+ members) has further honed my abilities in project coordination and cross-team collaboration.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: ~
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: >-
+    Weiyang College <br/>
+    B.S. in Mathematical Foundations & Industrial Engineering
+  date: Sep. 2023 - Jul. 2027
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Shokz (Shenzhen Shaoyin Technology Co., Ltd.)
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: Human Factors Engineering Intern
+  dept: Product Innovation Department
+  date: Summer 2026
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: Deputy Secretary
+  dept: Dushi College Youth League Committee
+  date: Dec. 2025 - Present
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: Organization Group Leader
+  dept: Dushi College Youth League Committee
+  date: Feb. 2025 - Dec. 2025
+- name: Tsinghua University
+  logo: /assets/images/badges/THU.png
+  position: Practice Group Leader
+  dept: Weiyang College Youth League Committee
+  date: Feb. 2025 - Dec. 2025
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Tsinghua University Comprehensive Excellence Scholarship
+  date: 2024-2025
+- name: Tsinghua University Academic Excellence Scholarship
+  date: 2024-2025
+- name: Tsinghua University Outstanding Student Leader
+  date: 2024-2025
+- name: Tsinghua University Social Work Excellence Scholarship
+  date: 2023-2024
+- name: Tsinghua University Volunteer Service Excellence Scholarship
+  date: 2023-2024

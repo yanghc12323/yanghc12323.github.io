@@ -4,13 +4,7 @@ title: 'Acknowledgement'
 date: 2026-03-17
 tags:
   - Blog
-  - Post
-  - Tag
+  - Site
 ---
 
-
-Thanks to [Yuqing Xie](https://yqxie99.github.io/) and [Kun Chen](https://kwen-chen.github.io/) for the contributions of the blog feature!
-
-## Section 1
-
-
+This personal homepage is built with Jekyll and hosted on GitHub Pages. Thanks to the open-source community for the templates and tools that made this possible.
