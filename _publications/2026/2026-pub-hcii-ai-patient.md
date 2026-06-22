@@ -15,7 +15,7 @@ authors:
   - Mingxiao Li
   - Zhuoran Gao
   - Ruohan Yang
-  - Pei-Luen Patrick Rau
+  - Pei-Luen Patrick Rau*
 links:
   Paper: https://2026.hci.international
 ---

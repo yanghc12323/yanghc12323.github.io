@@ -13,7 +13,7 @@ cover:          /assets/images/covers/cover2.jpg
 authors:
   - Tianyi Yuan
   - Haochen Yang
-  - Pei-Luen Patrick Rau
+  - Pei-Luen Patrick Rau*
 links:
   Paper: https://iopscience.iop.org/journal/1741-2552
 ---
