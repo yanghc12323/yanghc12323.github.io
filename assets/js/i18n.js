@@ -36,7 +36,18 @@
   }
 
   function translateKey(key) {
-    return (translations[currentLang] && translations[currentLang][key]) || key;
+    if (!translations[currentLang]) return key;
+    // Support dot-separated keys like "navbar.Home"
+    var parts = key.split('.');
+    var result = translations[currentLang];
+    for (var i = 0; i < parts.length; i++) {
+      if (result && typeof result === 'object') {
+        result = result[parts[i]];
+      } else {
+        return key;
+      }
+    }
+    return (result !== undefined && result !== null) ? result : key;
   }
 
   function translateElement(el) {
