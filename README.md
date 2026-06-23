@@ -1,8 +1,8 @@
-# Haochen Yang / 杨皓宸
+# Haochen Yang / 杨皓臣
 
 [![pages-build-deployment](https://github.com/yanghc12323/yanghc12323.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yanghc12323/yanghc12323.github.io/actions/workflows/pages/pages-build-deployment)
 
-Personal academic homepage of **Haochen Yang** (杨皓宸), an undergraduate student at Weiyang College, Tsinghua University.
+Personal academic homepage of **Haochen Yang** (杨皓臣), an undergraduate student at Weiyang College, Tsinghua University.
 
 🔗 **Live Site:** [yanghc12323.github.io](https://yanghc12323.github.io)
 
