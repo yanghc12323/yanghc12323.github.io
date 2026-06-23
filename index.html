@@ -16,12 +16,12 @@ navbar_title: Home
             {% include widgets/education_card.html %}
         {% endif %}
 
-        {% if site.data.display.homepage.show_experience %}
-            {% include widgets/experience_card.html %}
-        {% endif %}
-
         {% if site.data.display.homepage.show_awards %}
             {% include widgets/awards_card.html %}
+        {% endif %}
+
+        {% if site.data.display.homepage.show_experience %}
+            {% include widgets/experience_card.html %}
         {% endif %}
 
         {% if site.data.display.homepage.show_news %}
