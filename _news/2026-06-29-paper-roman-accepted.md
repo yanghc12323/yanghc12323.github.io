@@ -1,6 +1,8 @@
 ---
+title: "Paper on Robot Interviewer Accepted by RO-MAN 2026 (LBR)"
+title_zh: "机器人面试官论文被RO-MAN 2026接收 (LBR)"
 layout: post
-date: 2026-06-29 07:00:00+0000
+date: 2026-06-27 07:00:00+0000
 inline: true
 ---
 
