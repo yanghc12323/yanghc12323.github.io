@@ -1,10 +1,10 @@
 ---
 title:          "Alleviating Interview Stress: Effects of Robot Persona and Reactive Backchanneling on High‑Pressure Mock Interviews"
 title_zh:       "缓解面试压力：机器人人格与反应式反馈对高压模拟面试的影响"
-date:           2026-06-29 00:01:00 +0800
+date:           2026-06-27 00:01:00 +0800
 selected:       true
 pub:            "RO-MAN 2026 (IEEE International Symposium on Robot and Human Interactive Communication)"
-pub_date:       "2026 (Accepted, LBR)"
+pub_date:       "2026 (Latest Breaking Report, LBR)"
 abstract: >-
   High‑pressure job interviews induce anxiety and impair performance. This study investigates how a robot interviewer’s verbal persona (supportive vs. challenging) and nonverbal backchanneling (active vs. negative) affect users' psychological states and facial expressions in a simulated interview.
   In a 2×2 between‑subjects experiment (N=28), participants interacted with a NAO robot. Subjective measures (state anxiety, self‑efficacy, social presence) and objective facial emotion recognition (DeepFace) were collected.
