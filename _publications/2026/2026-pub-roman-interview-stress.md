@@ -19,7 +19,7 @@ abstract_zh: >-
   积极反馈增加了非中性（p=0.021）和焦虑-紧张面部情绪（p=0.048）。
   人格与反馈类型在社会临场感上存在显著交互效应（p=0.045）——一致组合放大积极体验，不一致组合则恶化体验。
   主观-客观一致性为67.9%，支持多模态评估方法。研究结果为HRI中的社会缓冲假设提供了初步证据。
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/ROMAN2026.png
 authors:
   - Haochen Yang
   - Zhuoran Gao
