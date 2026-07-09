@@ -23,5 +23,5 @@ authors:
   - Ruohan Yang
   - Pei-Luen Patrick Rau*
 links:
-  Paper: https://2026.hci.international
+  Paper: https://doi.org/10.1007/978-3-032-29903-1_32
 ---
