@@ -1,6 +1,6 @@
 ---
-title:          "Investigating the Dynamic Emotional Support Effects of AI Medical Assistants Across Different Consultation Stages: The Moderating Role of Gender"
-title_zh:       "AI医疗助手在不同问诊阶段的动态情感支持效应研究：性别的调节作用"
+title:          "The Emotional Dynamics of AI-Patient Communication: Effects of Gender and Consultation Stage"
+title_zh:       "AI与患者沟通中的情感动态：性别与诊疗阶段的影响"
 date:           2026-03-15 00:01:00 +0800
 selected:       true
 pub:            "HCII 2026 (Human-Computer Interaction International)"

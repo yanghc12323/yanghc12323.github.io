@@ -1,6 +1,6 @@
 ---
-title:          "Neural Mechanisms of Color-Touch Crossmodal Consistency: An fNIRS Study on Visual Saturation and Vibrotactile Intensity"
-title_zh:       "颜色-触觉跨模态一致性的神经机制：基于fNIRS的视觉饱和度与振动触觉强度研究"
+title:          "Neural correlates of cross-modal correspondence: fNIRS evidence from color-vibrotactile perception"
+title_zh:       "跨模态对应的神经关联：基于颜色-振动触觉感知的fNIRS证据"
 date:           2026-03-01 00:01:00 +0800
 selected:       true
 pub:            "Journal of Neural Engineering (JNE)"
